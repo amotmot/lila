@@ -20,7 +20,7 @@
     "@types/yaireo__tagify": "^4.0.1"
   },
   "dependencies": {
-    "@badrap/result": "^0.2.8",
+    "@badrap/result": "^0.3.1",
     "@yaireo/tagify": "^4.0.5",
     "ceval": "2.0.0",
     "chat": "2.0.0",
